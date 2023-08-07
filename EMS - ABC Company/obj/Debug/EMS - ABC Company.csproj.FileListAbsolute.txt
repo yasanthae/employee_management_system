@@ -1,0 +1,12 @@
+E:\BIT\Visual Application\EMS - ABC Company\EMS - ABC Company\bin\Debug\EMS - ABC Company.exe.config
+E:\BIT\Visual Application\EMS - ABC Company\EMS - ABC Company\bin\Debug\EMS - ABC Company.exe
+E:\BIT\Visual Application\EMS - ABC Company\EMS - ABC Company\bin\Debug\EMS - ABC Company.pdb
+E:\BIT\Visual Application\EMS - ABC Company\EMS - ABC Company\obj\Debug\EMS - ABC Company.csproj.AssemblyReference.cache
+E:\BIT\Visual Application\EMS - ABC Company\EMS - ABC Company\obj\Debug\EMS - ABC Company.csproj.SuggestedBindingRedirects.cache
+E:\BIT\Visual Application\EMS - ABC Company\EMS - ABC Company\obj\Debug\EMS___ABC_Company.Properties.Resources.resources
+E:\BIT\Visual Application\EMS - ABC Company\EMS - ABC Company\obj\Debug\EMS - ABC Company.csproj.GenerateResource.cache
+E:\BIT\Visual Application\EMS - ABC Company\EMS - ABC Company\obj\Debug\EMS - ABC Company.csproj.CoreCompileInputs.cache
+E:\BIT\Visual Application\EMS - ABC Company\EMS - ABC Company\obj\Debug\EMS - ABC Company.exe
+E:\BIT\Visual Application\EMS - ABC Company\EMS - ABC Company\obj\Debug\EMS - ABC Company.pdb
+E:\BIT\Visual Application\EMS - ABC Company\EMS - ABC Company\obj\Debug\EMS___ABC_Company.Form2.resources
+E:\BIT\Visual Application\EMS - ABC Company\EMS - ABC Company\obj\Debug\EMS___ABC_Company.Login.resources
